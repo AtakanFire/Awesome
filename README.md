@@ -22,7 +22,7 @@ Awesome Softwares
 * LMMS
 * Font Forge
 * Meshroom
-* Shortcut
+* Shotcut
 * Open Shot
 * Pixelorama
 * Piskel
@@ -36,6 +36,11 @@ Awesome Softwares
 * Redmine
 * Makehuman
 * MyPaint
+* FontForge
+* OmegaT
+* ShareX
+* Flameshot
+* Xbox 360 Controller Emulator
 
 
 ## Daily Use
