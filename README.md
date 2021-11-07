@@ -59,4 +59,5 @@ Awesome Softwares
 * Image Glass
 * Dopamine
 * Ubuntu / Linux
+* Darktable
 
