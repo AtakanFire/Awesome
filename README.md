@@ -60,4 +60,5 @@ Awesome Softwares
 * Dopamine
 * Ubuntu / Linux
 * Darktable
+* Meld
 
