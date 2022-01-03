@@ -41,6 +41,7 @@ Awesome Softwares
 * ShareX
 * Flameshot
 * Xbox 360 Controller Emulator
+* TerreSculptor
 
 
 ## Daily Use
