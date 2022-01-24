@@ -26,6 +26,7 @@ Awesome Softwares
 * Open Shot
 * Pixelorama
 * Piskel
+* LibreSprite
 * Visual Studio Code
 * KIT Scenarist
 * Unreal Engine
