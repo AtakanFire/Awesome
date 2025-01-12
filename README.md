@@ -64,6 +64,10 @@ Awesome Softwares for Gamedev, Daily Use and more...
 **Localization**
 * [OmegaT](https://omegat.org/) (❤️ 🆓 🥇 🎮): Localization, Translation Memory Tool
 
+**Cinema**
+* [Natron](https://github.com/NatronGitHub/Natron) (❤️ 🆓 🥈 🎮): Video Compositing Software
+* [DJV](https://github.com/darbyjohnston/DJV) (❤️ 🆓 🥈 🎮): Image Sequences & Videos Review Software
+
 **Marketing**
 * [OBS Studio](https://obsproject.com/) (❤️ 🆓 🥇 🎮): Broadcaster Software
 * [Shotcut](https://www.shotcut.org/) (❤️ 🆓 🥇 🎮): Video Editing Tool 
@@ -71,7 +75,6 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [ShareX](https://getsharex.com/) (❤️ 🆓 🥇 🎮): Screen capture, file sharing and productivity tool
 * [Open Shot](https://www.openshot.org/) (❤️ 🆓 🥈 🎮): Video Editor
 * [Flameshot](https://flameshot.org/) (❤️ 🆓 🥇 🎮): Screenshot Tool 
-* [Natron](https://github.com/NatronGitHub/Natron) (❤️ 🆓 🥈 🎮): Video Compositing Software
 
 **Extras**
 * Xbox 360 Controller Emulator
