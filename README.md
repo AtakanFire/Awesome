@@ -66,7 +66,6 @@ Awesome Softwares for Gamedev, Daily Use and more...
 
 **Cinema**
 * [Natron](https://github.com/NatronGitHub/Natron) (❤️ 🆓 🥈 🎮): Video Compositing Software
-* [DJV](https://github.com/darbyjohnston/DJV) (❤️ 🆓 🥈 🎮): Image Sequences & Videos Review Software
 
 **Marketing**
 * [OBS Studio](https://obsproject.com/) (❤️ 🆓 🥇 🎮): Broadcaster Software
