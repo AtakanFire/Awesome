@@ -33,8 +33,8 @@ Awesome Softwares for Gamedev, Daily Use and more...
 **Programming**
 * [Godot](https://godotengine.org/) (❤️ 🆓 🥇 🎮): 2D & 3D Game Engine
 * [Visual Studio Code](https://code.visualstudio.com/) (❤️ 🆓 🥇 🎮): Code Editor
-* [Git](https://git-scm.com/) (❤️ 🆓 🥇 🎮) / [Git Extensions](http://gitextensions.github.io/) (❤️ 🆓 🥇 🎮): Distributed version control system / User Interaface
-* [Svn](https://subversion.apache.org/) (❤️ 🆓 🥇 🎮) / [TortoiseSVN](https://tortoisesvn.net/) (❤️ 🆓 🥇 🎮): Version control system / User Interaface
+* [Git](https://git-scm.com/) (❤️ 🆓 🥇 🎮) / [Git Extensions](http://gitextensions.github.io/) (❤️ 🆓 🥇 🎮): Distributed version control system / User Interface
+* [Svn](https://subversion.apache.org/) (❤️ 🆓 🥇 🎮) / [TortoiseSVN](https://tortoisesvn.net/) (❤️ 🆓 🥇 🎮): Version control system / User Interface
 * [Draw.io](https://www.drawio.com/) (❤️ 🆓 🥇 🎮): Uml, Diagram Tool
 * [Unreal Engine](https://www.unrealengine.com/) (💸 🥇 🎮): Real-time 3D Creation Tool
 * [Unity](https://unity.com/) (💸 🥇 🎮): 
