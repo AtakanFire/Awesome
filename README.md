@@ -53,6 +53,7 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [Gimp](https://www.gimp.org/) (❤️ 🆓 🥈 🎮): Image Manipulation Program
 * [MyPaint](https://github.com/mypaint/mypaint) (❤️ 🆓 🥉 🎮): Infinite Canvas Painting App
 * [Material Maker](https://www.materialmaker.org/) (❤️ 🆓 🥉 🎮): Procedural Materials Authoring Tool
+* [Friction](https://friction.graphics/) (❤️ 🆓 🥈 🎮): Vector and Raster Animations Tool
 * [Quixel Mixer](https://quixel.com/mixer) (🆓 🥈 🎮): Texturing & Material Creation Tool
 * TerreSculptor
 
