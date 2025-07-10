@@ -67,6 +67,7 @@ Awesome Softwares for Gamedev, Daily Use and more...
 
 **Cinema**
 * [Natron](https://github.com/NatronGitHub/Natron) (❤️ 🆓 🥈 🎮): Video Compositing Software
+* [Friction](https://github.com/friction2d/friction) (❤️ 🆓 🥈 🎮): Motion Graphics Software
 
 **Marketing**
 * [OBS Studio](https://obsproject.com/) (❤️ 🆓 🥇 🎮): Broadcaster Software
