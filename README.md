@@ -61,6 +61,7 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [Musescore](https://musescore.org/) (❤️ 🆓 🥇 🎮): Music Composition & Notation Software 
 * [Audacity](https://www.audacityteam.org/) (❤️ 🆓 🥇 🎮): Audio Editor & Recorder
 * LMMS
+* [Pure Data (Pd)](https://puredata.info/) / [Plug Data](https://plugdata.org/): Sound Creation Node Editor
 
 **Localization**
 * [OmegaT](https://omegat.org/) (❤️ 🆓 🥇 🎮): Localization, Translation Memory Tool
