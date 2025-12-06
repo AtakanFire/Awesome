@@ -54,6 +54,7 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [MyPaint](https://github.com/mypaint/mypaint) (❤️ 🆓 🥉 🎮): Infinite Canvas Painting App
 * [Material Maker](https://www.materialmaker.org/) (❤️ 🆓 🥉 🎮): Procedural Materials Authoring Tool
 * [Friction](https://friction.graphics/) (❤️ 🆓 🥈 🎮): Vector and Raster Animations Tool
+* [F3D](https://f3d.app/) (❤️ 🆓 🥈 🎮): 3D Model Viewer
 * [Quixel Mixer](https://quixel.com/mixer) (🆓 🥈 🎮): Texturing & Material Creation Tool
 * TerreSculptor
 
