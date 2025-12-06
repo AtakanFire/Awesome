@@ -49,11 +49,12 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [LibreSprite](https://libresprite.github.io/#!/) (❤️ 🆓 🥈 🎮): Pixel Art Tool
 * [Piskel](https://www.piskelapp.com/) (❤️ 🆓 🥈 🎮): Pixel Art Tool 
 * [FontForge](https://fontforge.org/en-US/) (❤️ 🆓 🥈 🎮): Font Editor
+* [Natron](https://github.com/NatronGitHub/Natron) (❤️ 🆓 🥈 🎮 🎥): Video Compositing Software
 * [Meshroom](https://github.com/alicevision/Meshroom) (❤️ 🆓 🥈 🎮): 3D Scan, Photogrammetry Tool 
 * [Gimp](https://www.gimp.org/) (❤️ 🆓 🥈 🎮): Image Manipulation Program
 * [MyPaint](https://github.com/mypaint/mypaint) (❤️ 🆓 🥉 🎮): Infinite Canvas Painting App
 * [Material Maker](https://www.materialmaker.org/) (❤️ 🆓 🥉 🎮): Procedural Materials Authoring Tool
-* [Friction](https://friction.graphics/) (❤️ 🆓 🥈 🎮): Vector and Raster Animations Tool
+* [Friction](https://friction.graphics/) (❤️ 🆓 🥈 🎮): Vector and Raster Animations Tool / Motion Graphics Software
 * [F3D](https://f3d.app/) (❤️ 🆓 🥈 🎮): 3D Model Viewer
 * [Quixel Mixer](https://quixel.com/mixer) (🆓 🥈 🎮): Texturing & Material Creation Tool
 * TerreSculptor
@@ -66,10 +67,6 @@ Awesome Softwares for Gamedev, Daily Use and more...
 
 **Localization**
 * [OmegaT](https://omegat.org/) (❤️ 🆓 🥇 🎮): Localization, Translation Memory Tool
-
-**Cinema**
-* [Natron](https://github.com/NatronGitHub/Natron) (❤️ 🆓 🥈 🎮): Video Compositing Software
-* [Friction](https://github.com/friction2d/friction) (❤️ 🆓 🥈 🎮): Motion Graphics Software
 
 **Marketing**
 * [OBS Studio](https://obsproject.com/) (❤️ 🆓 🥇 🎮): Broadcaster Software
