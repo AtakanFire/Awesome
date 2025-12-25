@@ -55,6 +55,7 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [MyPaint](https://github.com/mypaint/mypaint) (❤️ 🆓 🥉 🎮): Infinite Canvas Painting App
 * [Material Maker](https://www.materialmaker.org/) (❤️ 🆓 🥉 🎮): Procedural Materials Authoring Tool
 * [Friction](https://friction.graphics/) (❤️ 🆓 🥈 🎮): Vector and Raster Animations Tool / Motion Graphics Software
+* [Glaxnimate](https://glaxnimate.org/) (❤️ 🆓 🥈 🎮): Vector Animations Tool / Motion Graphics Software
 * [F3D](https://f3d.app/) (❤️ 🆓 🥈 🎮): 3D Model Viewer
 * [Quixel Mixer](https://quixel.com/mixer) (🆓 🥈 🎮): Texturing & Material Creation Tool
 * TerreSculptor
@@ -62,7 +63,8 @@ Awesome Softwares for Gamedev, Daily Use and more...
 **Art (Sound & Music)**
 * [Musescore](https://musescore.org/) (❤️ 🆓 🥇 🎮): Music Composition & Notation Software 
 * [Audacity](https://www.audacityteam.org/) (❤️ 🆓 🥇 🎮): Audio Editor & Recorder
-* LMMS
+* [LMMS](https://lmms.io/) (❤️ 🆓 🥇 🎮): DAW & Music Production
+* [Cardinal](https://cardinal.kx.studio/) (❤️ 🆓 🥇 🎮): Virtual Modular Synthesizer
 * [Pure Data (Pd)](https://puredata.info/) / [Plug Data](https://plugdata.org/): Sound Creation Node Editor
 
 **Localization**
@@ -77,7 +79,8 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * [Flameshot](https://flameshot.org/) (❤️ 🆓 🥇 🎮): Screenshot Tool 
 
 **Extras**
-* Xbox 360 Controller Emulator
+* [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) (❤️ 🆓 🥇 🎮): Subtitle Editor
+* [Aegisub](https://aegisub.org/) (❤️ 🆓 🥈 🎮): Subtitle Editor
 * AutoHotkey
 
 ## Daily Use
