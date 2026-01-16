@@ -84,7 +84,7 @@ Awesome Softwares for Gamedev, Daily Use and more...
 * AutoHotkey
 
 ## Daily Use
-Quality of Life
+**Quality of Life**
 * [Libre Office](https://www.libreoffice.org/) (❤️ 🆓 🥇 🎮): Office Software
 * [PeaZip](https://peazip.github.io/) (❤️ 🆓 🥇 🎮): File archiver utility
 * [ImageGlass](https://imageglass.org/) (❤️ 🆓 🥇): Versatile image viewer
@@ -102,6 +102,13 @@ Quality of Life
 * Firefox
 * Chrome / Chromium
 * Opera
+
+Mobile Phone / Android Apps
+* NewPipe
+* Red Moon
+* Audio Recorder
+* Harmony Music
+* Aegis
 
 ## Others
 * [Seamly2D](https://github.com/FashionFreedom/Seamly2D) (❤️ 🆓): Fashion Pattern Design Software
