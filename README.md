@@ -107,6 +107,7 @@ Mobile Phone / Android Apps
 * NewPipe
 * Red Moon
 * Audio Recorder
+* Auxio
 * Harmony Music
 * Aegis
 
